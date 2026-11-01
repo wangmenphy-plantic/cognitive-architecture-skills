@@ -1,0 +1,35 @@
+{
+  "package": "Cognitive Architecture — Personal Expert Skill Training System",
+  "version": "0.3",
+  "skill_count": 6,
+  "skills": [
+    {
+      "name": "cognitive-architecture",
+      "lines": 141
+    },
+    {
+      "name": "cognitive-training",
+      "lines": 75
+    },
+    {
+      "name": "knowledge-encoding",
+      "lines": 68
+    },
+    {
+      "name": "knowledge-retrieval",
+      "lines": 72
+    },
+    {
+      "name": "memory-consolidation",
+      "lines": 72
+    },
+    {
+      "name": "performance-analysis",
+      "lines": 76
+    }
+  ],
+  "file_count": 28,
+  "all_files_below_500_lines": true,
+  "broken_relative_links": [],
+  "yaml_frontmatter_validated": true
+}
